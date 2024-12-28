@@ -1,0 +1,4 @@
+- Gere um e-book com imagens sobre o tema alimentação saudavel, e receitas fitness e saudaveis.  O titulo do e-book deve ser: Fit sem Segredo: Receitas faceis e deliciosas para o dia a dia
+- Gere uma pagina com as receitas, ingredientes e modo de preparo de cada uma
+- Gere uma receita menor
+- Refaça o processo para mais uma pagina
